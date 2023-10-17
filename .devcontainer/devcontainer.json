@@ -1,0 +1,11 @@
+{
+  // WhiZ version of Copilot
+  "name": "Codespace for skills!",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "Github.copilot"
+      ]
+    }
+  }
+}
